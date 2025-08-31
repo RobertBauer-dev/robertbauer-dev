@@ -24,8 +24,8 @@ Welcome to my GitHub. I’m Dr. Robert Bauer, based in Dresden—a researcher, e
 **Core Elements:**
 - Modular tool architecture (`file_tools`, `system_tools`)  
 - Clear learning objectives and structured development path  
-- Lightweight, server-based implementation  
-*(Used for demonstrating protocol design and AI-tool integration.)*  [oai_citation:3‡GitHub](https://github.com/RobertBauer-dev/mcp?utm_source=chatgpt.com)
+- Lightweight, server-based implementation
+[oai_citation:3‡GitHub](https://github.com/RobertBauer-dev/mcp?utm_source=chatgpt.com)
 
 ##  How to Use These Projects
 
